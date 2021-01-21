@@ -24,8 +24,6 @@ primary:
     href: /footnotes
 
 
-
-
 secondary:
   - text: Home
     href: /
@@ -36,9 +34,6 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: PDF Version
-    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
-    external: true
 
 docs:
   - text: BC Web Mapping Frameworks Comparison
@@ -61,13 +56,13 @@ web-mapping-frameworks:
   - text: Web Mapping Frameworks Home
     href: /web-mapping-frameworks
   - text: AGO
-    href: /web-mapping-frameworks/AGO
+    href: https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/ago
   - text: CWM
-    href: /web-mapping-frameworks/CWM
+    href: https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/cwm
   - text: IMF2
-    href: /web-mapping-frameworks/IMF2
+    href: https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/imf2
   - text: SMK
-    href: /web-mapping-frameworks/SMK
+    href: https://bcgov.github.io/bcwebmaps-options/web-mapping-frameworks/smk
 
 
 footer:
@@ -93,7 +88,6 @@ footer:
   - text: Updated 30/09/2020
     href: https://github.com/bcgov/bcwebmaps-options
     external: true
-
 
 maintenanceanddevelopment:
   - text: Maintenance and Development
